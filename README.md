@@ -1,4 +1,4 @@
-## [QueLibroLeo](https://www.quelibroleo.com)
+# [QueLibroLeo](https://www.quelibroleo.com)
 
 ### Desarrollo Idea de Trabajo
 
